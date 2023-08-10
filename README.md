@@ -34,10 +34,10 @@ Using This small POC, User can handle their Store's Inventory, Store Details, Da
 
 
 Team Members and thanks to them:
+-Chaitanya Ajabe: https://github.com/LinUxTo5re
 - Ajay Sharma: https://github.com/Dreamer28999
 - Himanshu Trivedi: https://github.com/himanshuking26
 - Aadarsh Tiwari: https://github.com/aadarsh0001
-- Anurag Srivastav: https://github.com/AnuragSrivastav1
 
 Licensed by **GNU**
 
